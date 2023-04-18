@@ -37,4 +37,4 @@ console.log(obj + obj1);
 let obj2 = {x: 10, y:20};
 let num = 10;
 
-console.log(`My object is ${obj2}`);
+console.log(`My object is ${obj2}`); // My object is [object Object]
